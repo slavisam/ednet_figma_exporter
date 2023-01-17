@@ -40,3 +40,11 @@ bool isDisplayFoldable(BuildContext context) {
     return hinge.bounds.size.aspectRatio < 1;
   }
 }
+
+bool isDisplayBigDesktop(BuildContext context) {
+  return getWindowType(context) == AdaptiveWindowType.large;
+}
+
+bool isDisplayExtraBigDesktop(BuildContext context) {
+  return getWindowType(context) == AdaptiveWindowType.xlarge;
+}
