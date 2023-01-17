@@ -5,10 +5,10 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/studies/rally/charts/pie_chart.dart';
-import 'package:gallery/studies/rally/data.dart';
-import 'package:gallery/studies/rally/finance.dart';
-import 'package:gallery/studies/rally/tabs/sidebar.dart';
+import 'package:ednet_figma_exporter/studies/rally/charts/pie_chart.dart';
+import 'package:ednet_figma_exporter/studies/rally/data.dart';
+import 'package:ednet_figma_exporter/studies/rally/finance.dart';
+import 'package:ednet_figma_exporter/studies/rally/tabs/sidebar.dart';
 
 /// A page that shows a summary of accounts.
 class AccountsView extends StatelessWidget {

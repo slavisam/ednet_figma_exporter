@@ -6,12 +6,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/constants.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/pages/home.dart';
-import 'package:gallery/pages/settings.dart';
-import 'package:gallery/pages/settings_icon/icon.dart' as settings_icon;
+import 'package:ednet_figma_exporter/constants.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/pages/home.dart';
+import 'package:ednet_figma_exporter/pages/settings.dart';
+import 'package:ednet_figma_exporter/pages/settings_icon/icon.dart' as settings_icon;
 
 const double _settingsButtonWidth = 64;
 const double _settingsButtonHeightDesktop = 56;

@@ -1,11 +1,11 @@
 import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/studies/reply/colors.dart';
-import 'package:gallery/studies/reply/mail_view_page.dart';
-import 'package:gallery/studies/reply/model/email_model.dart';
-import 'package:gallery/studies/reply/model/email_store.dart';
-import 'package:gallery/studies/reply/profile_avatar.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/studies/reply/colors.dart';
+import 'package:ednet_figma_exporter/studies/reply/mail_view_page.dart';
+import 'package:ednet_figma_exporter/studies/reply/model/email_model.dart';
+import 'package:ednet_figma_exporter/studies/reply/model/email_store.dart';
+import 'package:ednet_figma_exporter/studies/reply/profile_avatar.dart';
 import 'package:provider/provider.dart';
 
 const _assetsPackage = 'flutter_gallery_assets';

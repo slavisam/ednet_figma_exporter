@@ -7,9 +7,9 @@ import 'dart:math';
 import 'package:dual_screen/dual_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/constants.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/pages/home.dart';
+import 'package:ednet_figma_exporter/constants.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/pages/home.dart';
 
 const homePeekDesktop = 210.0;
 const homePeekMobile = 60.0;

@@ -4,10 +4,10 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/highlight_focus.dart';
-import 'package:gallery/layout/image_placeholder.dart';
-import 'package:gallery/studies/crane/model/destination.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/layout/highlight_focus.dart';
+import 'package:ednet_figma_exporter/layout/image_placeholder.dart';
+import 'package:ednet_figma_exporter/studies/crane/model/destination.dart';
 
 // Width and height for thumbnail images.
 const mobileThumbnailSize = 60.0;

@@ -6,16 +6,16 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
 import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/image_placeholder.dart';
-import 'package:gallery/studies/crane/backlayer.dart';
-import 'package:gallery/studies/crane/border_tab_indicator.dart';
-import 'package:gallery/studies/crane/colors.dart';
-import 'package:gallery/studies/crane/header_form.dart';
-import 'package:gallery/studies/crane/item_cards.dart';
-import 'package:gallery/studies/crane/model/data.dart';
-import 'package:gallery/studies/crane/model/destination.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/layout/image_placeholder.dart';
+import 'package:ednet_figma_exporter/studies/crane/backlayer.dart';
+import 'package:ednet_figma_exporter/studies/crane/border_tab_indicator.dart';
+import 'package:ednet_figma_exporter/studies/crane/colors.dart';
+import 'package:ednet_figma_exporter/studies/crane/header_form.dart';
+import 'package:ednet_figma_exporter/studies/crane/item_cards.dart';
+import 'package:ednet_figma_exporter/studies/crane/model/data.dart';
+import 'package:ednet_figma_exporter/studies/crane/model/destination.dart';
 
 class _FrontLayer extends StatefulWidget {
   const _FrontLayer({

@@ -4,13 +4,13 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/studies/crane/backdrop.dart';
-import 'package:gallery/studies/crane/eat_form.dart';
-import 'package:gallery/studies/crane/fly_form.dart';
-import 'package:gallery/studies/crane/routes.dart' as routes;
-import 'package:gallery/studies/crane/sleep_form.dart';
-import 'package:gallery/studies/crane/theme.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/studies/crane/backdrop.dart';
+import 'package:ednet_figma_exporter/studies/crane/eat_form.dart';
+import 'package:ednet_figma_exporter/studies/crane/fly_form.dart';
+import 'package:ednet_figma_exporter/studies/crane/routes.dart' as routes;
+import 'package:ednet_figma_exporter/studies/crane/sleep_form.dart';
+import 'package:ednet_figma_exporter/studies/crane/theme.dart';
 
 class CraneApp extends StatelessWidget {
   const CraneApp({super.key});

@@ -250,19 +250,19 @@ loading-units:
       - package:flutter_gen/gen_l10n/gallery_localizations_zu.dart
   - id: 77
     libraries:
-      - package:gallery/studies/crane/app.dart
-      - package:gallery/studies/crane/backdrop.dart
-      - package:gallery/studies/crane/eat_form.dart
-      - package:gallery/studies/crane/fly_form.dart
-      - package:gallery/studies/crane/sleep_form.dart
-      - package:gallery/studies/crane/theme.dart
+      - package:ednet_figma_exporter/studies/crane/app.dart
+      - package:ednet_figma_exporter/studies/crane/backdrop.dart
+      - package:ednet_figma_exporter/studies/crane/eat_form.dart
+      - package:ednet_figma_exporter/studies/crane/fly_form.dart
+      - package:ednet_figma_exporter/studies/crane/sleep_form.dart
+      - package:ednet_figma_exporter/studies/crane/theme.dart
       - package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart
-      - package:gallery/studies/crane/backlayer.dart
-      - package:gallery/studies/crane/border_tab_indicator.dart
-      - package:gallery/studies/crane/header_form.dart
-      - package:gallery/studies/crane/item_cards.dart
-      - package:gallery/studies/crane/model/data.dart
-      - package:gallery/studies/crane/model/destination.dart
+      - package:ednet_figma_exporter/studies/crane/backlayer.dart
+      - package:ednet_figma_exporter/studies/crane/border_tab_indicator.dart
+      - package:ednet_figma_exporter/studies/crane/header_form.dart
+      - package:ednet_figma_exporter/studies/crane/item_cards.dart
+      - package:ednet_figma_exporter/studies/crane/model/data.dart
+      - package:ednet_figma_exporter/studies/crane/model/destination.dart
       - package:flutter_staggered_grid_view/src/layouts/quilted.dart
       - package:flutter_staggered_grid_view/src/layouts/staired.dart
       - package:flutter_staggered_grid_view/src/layouts/woven.dart
@@ -274,8 +274,8 @@ loading-units:
       - package:flutter_staggered_grid_view/src/widgets/sliver_masonry_grid.dart
       - package:flutter_staggered_grid_view/src/widgets/staggered_grid.dart
       - package:flutter_staggered_grid_view/src/widgets/staggered_grid_tile.dart
-      - package:gallery/layout/highlight_focus.dart
-      - package:gallery/studies/crane/model/formatters.dart
+      - package:ednet_figma_exporter/layout/highlight_focus.dart
+      - package:ednet_figma_exporter/studies/crane/model/formatters.dart
       - package:flutter_staggered_grid_view/src/foundation/extensions.dart
       - package:flutter_staggered_grid_view/src/foundation/constants.dart
       - package:flutter_staggered_grid_view/src/layouts/sliver_patterned_grid_delegate.dart
@@ -284,107 +284,107 @@ loading-units:
       - package:flutter_staggered_grid_view/src/rendering/uniform_track.dart
   - id: 78
     libraries:
-      - package:gallery/studies/fortnightly/app.dart
-      - package:gallery/studies/fortnightly/shared.dart
+      - package:ednet_figma_exporter/studies/fortnightly/app.dart
+      - package:ednet_figma_exporter/studies/fortnightly/shared.dart
   - id: 79
     libraries:
-      - package:gallery/studies/rally/app.dart
-      - package:gallery/studies/rally/home.dart
-      - package:gallery/studies/rally/login.dart
-      - package:gallery/studies/rally/tabs/accounts.dart
-      - package:gallery/studies/rally/tabs/bills.dart
-      - package:gallery/studies/rally/tabs/budgets.dart
-      - package:gallery/studies/rally/tabs/overview.dart
-      - package:gallery/studies/rally/tabs/settings.dart
-      - package:gallery/studies/rally/charts/pie_chart.dart
-      - package:gallery/studies/rally/data.dart
-      - package:gallery/studies/rally/finance.dart
-      - package:gallery/studies/rally/tabs/sidebar.dart
-      - package:gallery/studies/rally/formatters.dart
-      - package:gallery/studies/rally/charts/line_chart.dart
-      - package:gallery/studies/rally/charts/vertical_fraction_bar.dart
+      - package:ednet_figma_exporter/studies/rally/app.dart
+      - package:ednet_figma_exporter/studies/rally/home.dart
+      - package:ednet_figma_exporter/studies/rally/login.dart
+      - package:ednet_figma_exporter/studies/rally/tabs/accounts.dart
+      - package:ednet_figma_exporter/studies/rally/tabs/bills.dart
+      - package:ednet_figma_exporter/studies/rally/tabs/budgets.dart
+      - package:ednet_figma_exporter/studies/rally/tabs/overview.dart
+      - package:ednet_figma_exporter/studies/rally/tabs/settings.dart
+      - package:ednet_figma_exporter/studies/rally/charts/pie_chart.dart
+      - package:ednet_figma_exporter/studies/rally/data.dart
+      - package:ednet_figma_exporter/studies/rally/finance.dart
+      - package:ednet_figma_exporter/studies/rally/tabs/sidebar.dart
+      - package:ednet_figma_exporter/studies/rally/formatters.dart
+      - package:ednet_figma_exporter/studies/rally/charts/line_chart.dart
+      - package:ednet_figma_exporter/studies/rally/charts/vertical_fraction_bar.dart
   - id: 80
     libraries:
-      - package:gallery/studies/shrine/app.dart
-      - package:gallery/studies/shrine/backdrop.dart
-      - package:gallery/studies/shrine/category_menu_page.dart
-      - package:gallery/studies/shrine/expanding_bottom_sheet.dart
-      - package:gallery/studies/shrine/home.dart
-      - package:gallery/studies/shrine/login.dart
-      - package:gallery/studies/shrine/model/app_state_model.dart
-      - package:gallery/studies/shrine/model/product.dart
-      - package:gallery/studies/shrine/page_status.dart
-      - package:gallery/studies/shrine/scrim.dart
-      - package:gallery/studies/shrine/supplemental/layout_cache.dart
-      - package:gallery/studies/shrine/theme.dart
+      - package:ednet_figma_exporter/studies/shrine/app.dart
+      - package:ednet_figma_exporter/studies/shrine/backdrop.dart
+      - package:ednet_figma_exporter/studies/shrine/category_menu_page.dart
+      - package:ednet_figma_exporter/studies/shrine/expanding_bottom_sheet.dart
+      - package:ednet_figma_exporter/studies/shrine/home.dart
+      - package:ednet_figma_exporter/studies/shrine/login.dart
+      - package:ednet_figma_exporter/studies/shrine/model/app_state_model.dart
+      - package:ednet_figma_exporter/studies/shrine/model/product.dart
+      - package:ednet_figma_exporter/studies/shrine/page_status.dart
+      - package:ednet_figma_exporter/studies/shrine/scrim.dart
+      - package:ednet_figma_exporter/studies/shrine/supplemental/layout_cache.dart
+      - package:ednet_figma_exporter/studies/shrine/theme.dart
       - package:scoped_model/scoped_model.dart
-      - package:gallery/studies/shrine/triangle_category_indicator.dart
-      - package:gallery/studies/shrine/shopping_cart.dart
-      - package:gallery/studies/shrine/supplemental/asymmetric_view.dart
-      - package:gallery/studies/shrine/model/products_repository.dart
-      - package:gallery/studies/shrine/supplemental/cut_corners_border.dart
-      - package:gallery/studies/shrine/supplemental/balanced_layout.dart
-      - package:gallery/studies/shrine/supplemental/desktop_product_columns.dart
-      - package:gallery/studies/shrine/supplemental/product_card.dart
-      - package:gallery/studies/shrine/supplemental/product_columns.dart
+      - package:ednet_figma_exporter/studies/shrine/triangle_category_indicator.dart
+      - package:ednet_figma_exporter/studies/shrine/shopping_cart.dart
+      - package:ednet_figma_exporter/studies/shrine/supplemental/asymmetric_view.dart
+      - package:ednet_figma_exporter/studies/shrine/model/products_repository.dart
+      - package:ednet_figma_exporter/studies/shrine/supplemental/cut_corners_border.dart
+      - package:ednet_figma_exporter/studies/shrine/supplemental/balanced_layout.dart
+      - package:ednet_figma_exporter/studies/shrine/supplemental/desktop_product_columns.dart
+      - package:ednet_figma_exporter/studies/shrine/supplemental/product_card.dart
+      - package:ednet_figma_exporter/studies/shrine/supplemental/product_columns.dart
   - id: 81
     libraries:
-      - package:gallery/demos/cupertino/cupertino_demos.dart
-      - package:gallery/demos/cupertino/cupertino_activity_indicator_demo.dart
-      - package:gallery/demos/cupertino/cupertino_alert_demo.dart
-      - package:gallery/demos/cupertino/cupertino_button_demo.dart
-      - package:gallery/demos/cupertino/cupertino_context_menu_demo.dart
-      - package:gallery/demos/cupertino/cupertino_navigation_bar_demo.dart
-      - package:gallery/demos/cupertino/cupertino_picker_demo.dart
-      - package:gallery/demos/cupertino/cupertino_scrollbar_demo.dart
-      - package:gallery/demos/cupertino/cupertino_search_text_field_demo.dart
-      - package:gallery/demos/cupertino/cupertino_segmented_control_demo.dart
-      - package:gallery/demos/cupertino/cupertino_slider_demo.dart
-      - package:gallery/demos/cupertino/cupertino_switch_demo.dart
-      - package:gallery/demos/cupertino/cupertino_tab_bar_demo.dart
-      - package:gallery/demos/cupertino/cupertino_text_field_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_demos.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_activity_indicator_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_alert_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_button_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_context_menu_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_navigation_bar_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_picker_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_scrollbar_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_search_text_field_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_segmented_control_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_slider_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_switch_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_tab_bar_demo.dart
+      - package:ednet_figma_exporter/demos/cupertino/cupertino_text_field_demo.dart
   - id: 82
     libraries:
-      - package:gallery/demos/material/material_demos.dart
-      - package:gallery/demos/material/app_bar_demo.dart
-      - package:gallery/demos/material/banner_demo.dart
-      - package:gallery/demos/material/bottom_app_bar_demo.dart
-      - package:gallery/demos/material/bottom_navigation_demo.dart
-      - package:gallery/demos/material/bottom_sheet_demo.dart
-      - package:gallery/demos/material/button_demo.dart
-      - package:gallery/demos/material/cards_demo.dart
-      - package:gallery/demos/material/chip_demo.dart
-      - package:gallery/demos/material/data_table_demo.dart
-      - package:gallery/demos/material/dialog_demo.dart
-      - package:gallery/demos/material/divider_demo.dart
-      - package:gallery/demos/material/grid_list_demo.dart
-      - package:gallery/demos/material/list_demo.dart
-      - package:gallery/demos/material/menu_demo.dart
-      - package:gallery/demos/material/navigation_drawer.dart
-      - package:gallery/demos/material/navigation_rail_demo.dart
-      - package:gallery/demos/material/picker_demo.dart
-      - package:gallery/demos/material/progress_indicator_demo.dart
-      - package:gallery/demos/material/selection_controls_demo.dart
-      - package:gallery/demos/material/sliders_demo.dart
-      - package:gallery/demos/material/snackbar_demo.dart
-      - package:gallery/demos/material/tabs_demo.dart
-      - package:gallery/demos/material/text_field_demo.dart
-      - package:gallery/demos/material/tooltip_demo.dart
+      - package:ednet_figma_exporter/demos/material/material_demos.dart
+      - package:ednet_figma_exporter/demos/material/app_bar_demo.dart
+      - package:ednet_figma_exporter/demos/material/banner_demo.dart
+      - package:ednet_figma_exporter/demos/material/bottom_app_bar_demo.dart
+      - package:ednet_figma_exporter/demos/material/bottom_navigation_demo.dart
+      - package:ednet_figma_exporter/demos/material/bottom_sheet_demo.dart
+      - package:ednet_figma_exporter/demos/material/button_demo.dart
+      - package:ednet_figma_exporter/demos/material/cards_demo.dart
+      - package:ednet_figma_exporter/demos/material/chip_demo.dart
+      - package:ednet_figma_exporter/demos/material/data_table_demo.dart
+      - package:ednet_figma_exporter/demos/material/dialog_demo.dart
+      - package:ednet_figma_exporter/demos/material/divider_demo.dart
+      - package:ednet_figma_exporter/demos/material/grid_list_demo.dart
+      - package:ednet_figma_exporter/demos/material/list_demo.dart
+      - package:ednet_figma_exporter/demos/material/menu_demo.dart
+      - package:ednet_figma_exporter/demos/material/navigation_drawer.dart
+      - package:ednet_figma_exporter/demos/material/navigation_rail_demo.dart
+      - package:ednet_figma_exporter/demos/material/picker_demo.dart
+      - package:ednet_figma_exporter/demos/material/progress_indicator_demo.dart
+      - package:ednet_figma_exporter/demos/material/selection_controls_demo.dart
+      - package:ednet_figma_exporter/demos/material/sliders_demo.dart
+      - package:ednet_figma_exporter/demos/material/snackbar_demo.dart
+      - package:ednet_figma_exporter/demos/material/tabs_demo.dart
+      - package:ednet_figma_exporter/demos/material/text_field_demo.dart
+      - package:ednet_figma_exporter/demos/material/tooltip_demo.dart
   - id: 83
     libraries:
-      - package:gallery/demos/reference/colors_demo.dart
+      - package:ednet_figma_exporter/demos/reference/colors_demo.dart
   - id: 84
     libraries:
-      - package:gallery/demos/reference/motion_demo_container_transition.dart
+      - package:ednet_figma_exporter/demos/reference/motion_demo_container_transition.dart
   - id: 85
     libraries:
-      - package:gallery/demos/reference/transformations_demo.dart
-      - package:gallery/demos/reference/transformations_demo_board.dart
-      - package:gallery/demos/reference/transformations_demo_edit_board_point.dart
-      - package:gallery/demos/reference/transformations_demo_color_picker.dart
+      - package:ednet_figma_exporter/demos/reference/transformations_demo.dart
+      - package:ednet_figma_exporter/demos/reference/transformations_demo_board.dart
+      - package:ednet_figma_exporter/demos/reference/transformations_demo_edit_board_point.dart
+      - package:ednet_figma_exporter/demos/reference/transformations_demo_color_picker.dart
   - id: 86
     libraries:
-      - package:gallery/demos/reference/two_pane_demo.dart
+      - package:ednet_figma_exporter/demos/reference/two_pane_demo.dart
   - id: 87
     libraries:
-      - package:gallery/demos/reference/typography_demo.dart
+      - package:ednet_figma_exporter/demos/reference/typography_demo.dart

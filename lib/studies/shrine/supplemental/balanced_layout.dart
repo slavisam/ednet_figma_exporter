@@ -4,9 +4,9 @@
 
 import 'package:flutter/material.dart';
 
-import 'package:gallery/studies/shrine/model/product.dart';
-import 'package:gallery/studies/shrine/supplemental/desktop_product_columns.dart';
-import 'package:gallery/studies/shrine/supplemental/layout_cache.dart';
+import 'package:ednet_figma_exporter/studies/shrine/model/product.dart';
+import 'package:ednet_figma_exporter/studies/shrine/supplemental/desktop_product_columns.dart';
+import 'package:ednet_figma_exporter/studies/shrine/supplemental/layout_cache.dart';
 
 /// A placeholder id for an empty element. See [_iterateUntilBalanced]
 /// for more information.

@@ -5,22 +5,22 @@
 import 'package:dual_screen/dual_screen.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:gallery/deferred_widget.dart';
-import 'package:gallery/main.dart';
-import 'package:gallery/pages/demo.dart';
-import 'package:gallery/pages/home.dart';
-import 'package:gallery/studies/crane/app.dart' deferred as crane;
-import 'package:gallery/studies/crane/routes.dart' as crane_routes;
-import 'package:gallery/studies/fortnightly/app.dart' deferred as fortnightly;
-import 'package:gallery/studies/fortnightly/routes.dart' as fortnightly_routes;
-import 'package:gallery/studies/rally/app.dart' deferred as rally;
-import 'package:gallery/studies/rally/routes.dart' as rally_routes;
-import 'package:gallery/studies/reply/app.dart' as reply;
-import 'package:gallery/studies/reply/routes.dart' as reply_routes;
-import 'package:gallery/studies/shrine/app.dart' deferred as shrine;
-import 'package:gallery/studies/shrine/routes.dart' as shrine_routes;
-import 'package:gallery/studies/starter/app.dart' as starter_app;
-import 'package:gallery/studies/starter/routes.dart' as starter_app_routes;
+import 'package:ednet_figma_exporter/deferred_widget.dart';
+import 'package:ednet_figma_exporter/main.dart';
+import 'package:ednet_figma_exporter/pages/demo.dart';
+import 'package:ednet_figma_exporter/pages/home.dart';
+import 'package:ednet_figma_exporter/studies/crane/app.dart' deferred as crane;
+import 'package:ednet_figma_exporter/studies/crane/routes.dart' as crane_routes;
+import 'package:ednet_figma_exporter/studies/fortnightly/app.dart' deferred as fortnightly;
+import 'package:ednet_figma_exporter/studies/fortnightly/routes.dart' as fortnightly_routes;
+import 'package:ednet_figma_exporter/studies/rally/app.dart' deferred as rally;
+import 'package:ednet_figma_exporter/studies/rally/routes.dart' as rally_routes;
+import 'package:ednet_figma_exporter/studies/reply/app.dart' as reply;
+import 'package:ednet_figma_exporter/studies/reply/routes.dart' as reply_routes;
+import 'package:ednet_figma_exporter/studies/shrine/app.dart' deferred as shrine;
+import 'package:ednet_figma_exporter/studies/shrine/routes.dart' as shrine_routes;
+import 'package:ednet_figma_exporter/studies/starter/app.dart' as starter_app;
+import 'package:ednet_figma_exporter/studies/starter/routes.dart' as starter_app_routes;
 
 typedef PathWidgetBuilder = Widget Function(BuildContext, String?);
 
@@ -55,61 +55,68 @@ class RouteConfiguration {
   static List<Path> paths = [
     Path(
       r'^' + DemoPage.baseRoute + r'/([\w-]+)$',
-      (context, match) => DemoPage(slug: match),
+          (context, match) => DemoPage(slug: match),
       openInSecondScreen: false,
     ),
     Path(
       r'^' + rally_routes.homeRoute,
-      (context, match) => StudyWrapper(
-        study: DeferredWidget(rally.loadLibrary,
-            () => rally.RallyApp()), // ignore: prefer_const_constructors
-      ),
+          (context, match) =>
+          StudyWrapper(
+            study: DeferredWidget(rally.loadLibrary,
+                    () =>
+                    rally.RallyApp()), // ignore: prefer_const_constructors
+          ),
       openInSecondScreen: true,
     ),
     Path(
       r'^' + shrine_routes.homeRoute,
-      (context, match) => StudyWrapper(
-        study: DeferredWidget(shrine.loadLibrary,
-            () => shrine.ShrineApp()), // ignore: prefer_const_constructors
-      ),
+          (context, match) =>
+          StudyWrapper(
+            study: DeferredWidget(shrine.loadLibrary,
+                    () =>
+                    shrine.ShrineApp()), // ignore: prefer_const_constructors
+          ),
       openInSecondScreen: true,
     ),
     Path(
       r'^' + crane_routes.defaultRoute,
-      (context, match) => StudyWrapper(
-        study: DeferredWidget(crane.loadLibrary,
-            () => crane.CraneApp(), // ignore: prefer_const_constructors
-            placeholder: const DeferredLoadingPlaceholder(name: 'Crane')),
-      ),
+          (context, match) =>
+          StudyWrapper(
+            study: DeferredWidget(crane.loadLibrary,
+                    () => crane.CraneApp(), // ignore: prefer_const_constructors
+                placeholder: const DeferredLoadingPlaceholder(name: 'Crane')),
+          ),
       openInSecondScreen: true,
     ),
     Path(
       r'^' + fortnightly_routes.defaultRoute,
-      (context, match) => StudyWrapper(
-        study: DeferredWidget(
-            fortnightly.loadLibrary,
-            // ignore: prefer_const_constructors
-            () => fortnightly.FortnightlyApp()),
-      ),
+          (context, match) =>
+          StudyWrapper(
+            study: DeferredWidget(
+                fortnightly.loadLibrary,
+                // ignore: prefer_const_constructors
+                    () => fortnightly.FortnightlyApp()),
+          ),
       openInSecondScreen: true,
     ),
     Path(
       r'^' + reply_routes.homeRoute,
       // ignore: prefer_const_constructors
-      (context, match) =>
-          const StudyWrapper(study: reply.ReplyApp(), hasBottomNavBar: true),
+          (context, match) =>
+      const StudyWrapper(study: reply.ReplyApp(), hasBottomNavBar: true),
       openInSecondScreen: true,
     ),
     Path(
       r'^' + starter_app_routes.defaultRoute,
-      (context, match) => const StudyWrapper(
+          (context, match) =>
+      const StudyWrapper(
         study: starter_app.StarterApp(),
       ),
       openInSecondScreen: true,
     ),
     Path(
       r'^/',
-      (context, match) => const RootPage(),
+          (context, match) => const RootPage(),
       openInSecondScreen: false,
     ),
   ];
@@ -156,12 +163,10 @@ class NoAnimationMaterialPageRoute<T> extends MaterialPageRoute<T> {
   });
 
   @override
-  Widget buildTransitions(
-    BuildContext context,
-    Animation<double> animation,
-    Animation<double> secondaryAnimation,
-    Widget child,
-  ) {
+  Widget buildTransitions(BuildContext context,
+      Animation<double> animation,
+      Animation<double> secondaryAnimation,
+      Widget child,) {
     return child;
   }
 }
@@ -177,7 +182,10 @@ class TwoPanePageRoute<T> extends OverlayRoute<T> {
   @override
   Iterable<OverlayEntry> createOverlayEntries() sync* {
     yield OverlayEntry(builder: (context) {
-      final hinge = MediaQuery.of(context).hinge?.bounds;
+      final hinge = MediaQuery
+          .of(context)
+          .hinge
+          ?.bounds;
       if (hinge == null) {
         return builder.call(context);
       } else {

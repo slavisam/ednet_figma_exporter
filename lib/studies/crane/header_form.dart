@@ -3,8 +3,8 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/studies/crane/colors.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/studies/crane/colors.dart';
 
 const textFieldHeight = 60.0;
 const appPaddingLarge = 120.0;

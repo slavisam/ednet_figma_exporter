@@ -7,13 +7,13 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/data.dart';
-import 'package:gallery/studies/rally/finance.dart';
-import 'package:gallery/studies/rally/formatters.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/layout/text_scale.dart';
+import 'package:ednet_figma_exporter/studies/rally/colors.dart';
+import 'package:ednet_figma_exporter/studies/rally/data.dart';
+import 'package:ednet_figma_exporter/studies/rally/finance.dart';
+import 'package:ednet_figma_exporter/studies/rally/formatters.dart';
 
 /// A page that shows a status overview.
 class OverviewView extends StatefulWidget {

@@ -6,12 +6,12 @@ import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/letter_spacing.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/data.dart';
-import 'package:gallery/studies/rally/formatters.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/letter_spacing.dart';
+import 'package:ednet_figma_exporter/layout/text_scale.dart';
+import 'package:ednet_figma_exporter/studies/rally/colors.dart';
+import 'package:ednet_figma_exporter/studies/rally/data.dart';
+import 'package:ednet_figma_exporter/studies/rally/formatters.dart';
 
 /// A colored piece of the [RallyPieChart].
 class RallyPieChartSegment {

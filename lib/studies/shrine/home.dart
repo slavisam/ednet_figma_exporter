@@ -4,11 +4,11 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/semantics.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/studies/shrine/expanding_bottom_sheet.dart';
-import 'package:gallery/studies/shrine/model/app_state_model.dart';
-import 'package:gallery/studies/shrine/supplemental/asymmetric_view.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/studies/shrine/expanding_bottom_sheet.dart';
+import 'package:ednet_figma_exporter/studies/shrine/model/app_state_model.dart';
+import 'package:ednet_figma_exporter/studies/shrine/supplemental/asymmetric_view.dart';
 import 'package:scoped_model/scoped_model.dart';
 
 const _ordinalSortKeyName = 'home';

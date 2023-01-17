@@ -5,12 +5,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/image_placeholder.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/studies/rally/app.dart';
-import 'package:gallery/studies/rally/colors.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/layout/image_placeholder.dart';
+import 'package:ednet_figma_exporter/layout/text_scale.dart';
+import 'package:ednet_figma_exporter/studies/rally/app.dart';
+import 'package:ednet_figma_exporter/studies/rally/colors.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

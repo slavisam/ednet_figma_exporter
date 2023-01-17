@@ -1,7 +1,8 @@
-name: gallery
+name: ednet_figma_exporter
 description: A resource to help developers evaluate and use Flutter.
 repository: https://github.com/flutter/gallery
 version: 2.10.0+021000
+publish_to: none
 
 environment:
   flutter: ^3.7.0-1.4.pre # Keep relatively close to master channel version
@@ -33,6 +34,8 @@ dependencies:
   shrine_images: ^2.0.1
   url_launcher: ^6.1.2
   vector_math: ^2.1.2
+  ednet_figma_domain:
+    path: ../ednet_figma_domain
 
 dev_dependencies:
   flutter_test:
@@ -52,7 +55,7 @@ flutter:
     - name: crane
       libraries:
         # Only one library from the loading unit is necessary.
-        - package:gallery/studies/crane/app.dart
+        - package:ednet_figma_exporter/studies/crane/app.dart
       assets:
         - packages/flutter_gallery_assets/crane/destinations/eat_0.jpg
         - packages/flutter_gallery_assets/crane/destinations/eat_1.jpg

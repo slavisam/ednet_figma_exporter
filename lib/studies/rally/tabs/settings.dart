@@ -3,10 +3,10 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/data.dart';
-import 'package:gallery/studies/rally/routes.dart' as rally_route;
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/studies/rally/colors.dart';
+import 'package:ednet_figma_exporter/studies/rally/data.dart';
+import 'package:ednet_figma_exporter/studies/rally/routes.dart' as rally_route;
 
 class SettingsView extends StatefulWidget {
   const SettingsView({super.key});

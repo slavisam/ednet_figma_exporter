@@ -5,12 +5,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/semantics.dart';
 
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/data.dart';
-import 'package:gallery/studies/rally/formatters.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/layout/text_scale.dart';
+import 'package:ednet_figma_exporter/studies/rally/colors.dart';
+import 'package:ednet_figma_exporter/studies/rally/data.dart';
+import 'package:ednet_figma_exporter/studies/rally/formatters.dart';
 import 'package:intl/intl.dart' as intl;
 
 class RallyLineChart extends StatelessWidget {

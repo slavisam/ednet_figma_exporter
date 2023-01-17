@@ -1,14 +1,14 @@
 import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/letter_spacing.dart';
-import 'package:gallery/studies/reply/adaptive_nav.dart';
-import 'package:gallery/studies/reply/colors.dart';
-import 'package:gallery/studies/reply/compose_page.dart';
-import 'package:gallery/studies/reply/model/email_model.dart';
-import 'package:gallery/studies/reply/model/email_store.dart';
-import 'package:gallery/studies/reply/routes.dart' as routes;
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/letter_spacing.dart';
+import 'package:ednet_figma_exporter/studies/reply/adaptive_nav.dart';
+import 'package:ednet_figma_exporter/studies/reply/colors.dart';
+import 'package:ednet_figma_exporter/studies/reply/compose_page.dart';
+import 'package:ednet_figma_exporter/studies/reply/model/email_model.dart';
+import 'package:ednet_figma_exporter/studies/reply/model/email_store.dart';
+import 'package:ednet_figma_exporter/studies/reply/routes.dart' as routes;
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 

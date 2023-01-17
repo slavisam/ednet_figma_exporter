@@ -4,7 +4,7 @@
 
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:gallery/pages/settings_icon/metrics.dart';
+import 'package:ednet_figma_exporter/pages/settings_icon/metrics.dart';
 
 class SettingsIcon extends StatelessWidget {
   const SettingsIcon(this.time, {super.key});

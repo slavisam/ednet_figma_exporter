@@ -8,12 +8,12 @@ import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
 import 'package:flutter_localized_locales/flutter_localized_locales.dart';
-import 'package:gallery/constants.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/pages/about.dart' as about;
-import 'package:gallery/pages/home.dart';
-import 'package:gallery/pages/settings_list_item.dart';
+import 'package:ednet_figma_exporter/constants.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/pages/about.dart' as about;
+import 'package:ednet_figma_exporter/pages/home.dart';
+import 'package:ednet_figma_exporter/pages/settings_list_item.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 enum _ExpandableSetting {

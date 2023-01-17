@@ -5,7 +5,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/studies/rally/formatters.dart';
+import 'package:ednet_figma_exporter/studies/rally/formatters.dart';
 
 /// Calculates the sum of the primary amounts of a list of [AccountData].
 double sumAccountDataPrimaryAmount(List<AccountData> items) =>

@@ -5,8 +5,8 @@
 import 'package:flutter/cupertino.dart';
 
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/demos/cupertino/demo_types.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/demos/cupertino/demo_types.dart';
 
 // BEGIN cupertinoAlertDemo
 

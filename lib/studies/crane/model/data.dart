@@ -4,7 +4,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/studies/crane/model/destination.dart';
+import 'package:ednet_figma_exporter/studies/crane/model/destination.dart';
 
 List<FlyDestination> getFlyDestinations(BuildContext context) {
   final localizations = GalleryLocalizations.of(context)!;

@@ -6,13 +6,13 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/image_placeholder.dart';
-import 'package:gallery/layout/letter_spacing.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/studies/shrine/app.dart';
-import 'package:gallery/studies/shrine/theme.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/layout/image_placeholder.dart';
+import 'package:ednet_figma_exporter/layout/letter_spacing.dart';
+import 'package:ednet_figma_exporter/layout/text_scale.dart';
+import 'package:ednet_figma_exporter/studies/shrine/app.dart';
+import 'package:ednet_figma_exporter/studies/shrine/theme.dart';
 
 const _horizontalPadding = 24.0;
 

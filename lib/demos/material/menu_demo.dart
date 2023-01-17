@@ -5,7 +5,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/demos/material/material_demo_types.dart';
+import 'package:ednet_figma_exporter/demos/material/material_demo_types.dart';
 
 enum SimpleValue {
   one,

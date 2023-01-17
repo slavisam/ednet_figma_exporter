@@ -5,8 +5,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
 
-import 'package:gallery/studies/crane/backlayer.dart';
-import 'package:gallery/studies/crane/header_form.dart';
+import 'package:ednet_figma_exporter/studies/crane/backlayer.dart';
+import 'package:ednet_figma_exporter/studies/crane/header_form.dart';
 
 class SleepForm extends BackLayerItem {
   const SleepForm({super.key}) : super(index: 1);

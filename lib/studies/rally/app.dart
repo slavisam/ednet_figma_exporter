@@ -6,12 +6,12 @@ import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/letter_spacing.dart';
-import 'package:gallery/studies/rally/colors.dart';
-import 'package:gallery/studies/rally/home.dart';
-import 'package:gallery/studies/rally/login.dart';
-import 'package:gallery/studies/rally/routes.dart' as routes;
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/letter_spacing.dart';
+import 'package:ednet_figma_exporter/studies/rally/colors.dart';
+import 'package:ednet_figma_exporter/studies/rally/home.dart';
+import 'package:ednet_figma_exporter/studies/rally/login.dart';
+import 'package:ednet_figma_exporter/studies/rally/routes.dart' as routes;
 import 'package:google_fonts/google_fonts.dart';
 
 /// The RallyApp is a MaterialApp with a theme and 2 routes.

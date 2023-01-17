@@ -4,14 +4,14 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/layout/text_scale.dart';
-import 'package:gallery/studies/rally/tabs/accounts.dart';
-import 'package:gallery/studies/rally/tabs/bills.dart';
-import 'package:gallery/studies/rally/tabs/budgets.dart';
-import 'package:gallery/studies/rally/tabs/overview.dart';
-import 'package:gallery/studies/rally/tabs/settings.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/layout/text_scale.dart';
+import 'package:ednet_figma_exporter/studies/rally/tabs/accounts.dart';
+import 'package:ednet_figma_exporter/studies/rally/tabs/bills.dart';
+import 'package:ednet_figma_exporter/studies/rally/tabs/budgets.dart';
+import 'package:ednet_figma_exporter/studies/rally/tabs/overview.dart';
+import 'package:ednet_figma_exporter/studies/rally/tabs/settings.dart';
 
 const int tabCount = 5;
 const int turnsToRotateRight = 1;

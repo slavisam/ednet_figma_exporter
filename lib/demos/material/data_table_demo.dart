@@ -4,7 +4,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
 import 'package:intl/intl.dart';
 
 // BEGIN dataTableDemo

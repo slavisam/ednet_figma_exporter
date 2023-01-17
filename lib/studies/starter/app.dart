@@ -4,9 +4,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/gallery_options.dart';
-import 'package:gallery/studies/starter/home.dart';
-import 'package:gallery/studies/starter/routes.dart' as routes;
+import 'package:ednet_figma_exporter/data/gallery_options.dart';
+import 'package:ednet_figma_exporter/studies/starter/home.dart';
+import 'package:ednet_figma_exporter/studies/starter/routes.dart' as routes;
 
 const _primaryColor = Color(0xFF6200EE);
 

@@ -4,9 +4,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
-import 'package:gallery/data/demos.dart';
-import 'package:gallery/layout/adaptive.dart';
-import 'package:gallery/pages/demo.dart';
+import 'package:ednet_figma_exporter/data/demos.dart';
+import 'package:ednet_figma_exporter/layout/adaptive.dart';
+import 'package:ednet_figma_exporter/pages/demo.dart';
 
 typedef CategoryHeaderTapCallback = Function(bool shouldOpenList);
 
