@@ -5,9 +5,6 @@
 import 'dart:async';
 import 'dart:math' as math;
 
-import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
 import 'package:ednet_figma_exporter/constants.dart';
 import 'package:ednet_figma_exporter/data/demos.dart';
 import 'package:ednet_figma_exporter/data/gallery_options.dart';
@@ -18,13 +15,19 @@ import 'package:ednet_figma_exporter/pages/settings.dart';
 import 'package:ednet_figma_exporter/pages/splash.dart';
 import 'package:ednet_figma_exporter/studies/crane/colors.dart';
 import 'package:ednet_figma_exporter/studies/crane/routes.dart' as crane_routes;
-import 'package:ednet_figma_exporter/studies/fortnightly/routes.dart' as fortnightly_routes;
+import 'package:ednet_figma_exporter/studies/fortnightly/routes.dart'
+    as fortnightly_routes;
 import 'package:ednet_figma_exporter/studies/rally/colors.dart';
 import 'package:ednet_figma_exporter/studies/rally/routes.dart' as rally_routes;
 import 'package:ednet_figma_exporter/studies/reply/routes.dart' as reply_routes;
 import 'package:ednet_figma_exporter/studies/shrine/colors.dart';
-import 'package:ednet_figma_exporter/studies/shrine/routes.dart' as shrine_routes;
-import 'package:ednet_figma_exporter/studies/starter/routes.dart' as starter_app_routes;
+import 'package:ednet_figma_exporter/studies/shrine/routes.dart'
+    as shrine_routes;
+import 'package:ednet_figma_exporter/studies/starter/routes.dart'
+    as starter_app_routes;
+import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
+import 'package:flutter_gen/gen_l10n/gallery_localizations.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 const _horizontalPadding = 32.0;
@@ -998,6 +1001,10 @@ class _SnappingScrollPhysics extends ScrollPhysics {
 
   @override
   bool get allowImplicitScrolling => true;
+
+  Tolerance toleranceFor(ScrollMetrics position) {
+    return Tolerance(time: position.maxScrollExtent);
+  }
 }
 
 class _DesktopPageButton extends StatelessWidget {
