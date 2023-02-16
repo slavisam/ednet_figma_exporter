@@ -6,8 +6,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:gallery/data/demos.dart';
-import 'package:gallery/main.dart';
+import 'package:ednet_figma_exporter/data/demos.dart';
+import 'package:ednet_figma_exporter/main.dart';
 
 import 'scroll.dart';
 

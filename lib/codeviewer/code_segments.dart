@@ -2148,7 +2148,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -3040,7 +3040,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -3345,7 +3345,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -3752,7 +3752,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -4040,7 +4040,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -4216,7 +4216,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -4504,7 +4504,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -4792,7 +4792,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -7492,7 +7492,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -7612,7 +7612,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -8153,7 +8153,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -8685,7 +8685,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -10331,14 +10331,14 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/data/gallery_options.dart\u0027'),
+          text: '\u0027package:ednet_figma_exporter/data/gallery_options.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/demos/cupertino/demo_types.dart\u0027'),
+          text: '\u0027package:ednet_figma_exporter/demos/cupertino/demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -18298,7 +18298,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.classStyle, text: 'Path'),
@@ -20363,7 +20363,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/data/gallery_options.dart\u0027'),
+          text: '\u0027package:ednet_figma_exporter/data/gallery_options.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
@@ -23575,7 +23575,7 @@ class CodeSegments {
       TextSpan(style: codeStyle.baseStyle, text: ' '),
       TextSpan(
           style: codeStyle.stringStyle,
-          text: '\u0027package:gallery/data/gallery_options.dart\u0027'),
+          text: '\u0027package:ednet_figma_exporter/data/gallery_options.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
@@ -23583,7 +23583,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -25314,7 +25314,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -27239,7 +27239,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -28221,7 +28221,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -28472,7 +28472,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(
@@ -29358,7 +29358,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(
@@ -29620,7 +29620,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(
@@ -29980,7 +29980,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(
@@ -34141,7 +34141,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'import'),
@@ -35349,7 +35349,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -35919,7 +35919,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_exporter/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -36553,7 +36553,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_domain/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -36993,7 +36993,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_domain/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -37329,7 +37329,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_domain/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -41163,7 +41163,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_domain/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -42039,7 +42039,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_domain/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -42436,7 +42436,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_domain/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),
@@ -50313,7 +50313,7 @@ class CodeSegments {
       TextSpan(
           style: codeStyle.stringStyle,
           text:
-              '\u0027package:gallery/demos/material/material_demo_types.dart\u0027'),
+              '\u0027package:ednet_figma_domain/demos/material/material_demo_types.dart\u0027'),
       TextSpan(style: codeStyle.punctuationStyle, text: ';'),
       TextSpan(style: codeStyle.baseStyle, text: '\u000a\u000a'),
       TextSpan(style: codeStyle.keywordStyle, text: 'class'),

@@ -3,9 +3,9 @@
 // found in the LICENSE file.
 
 import 'package:collection/collection.dart';
+import 'package:ednet_figma_exporter/data/demos.dart';
 import 'package:flutter_gen/gen_l10n/gallery_localizations_en.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:gallery/data/demos.dart';
 
 bool _isUnique(List<String> list) {
   final covered = <String>{};

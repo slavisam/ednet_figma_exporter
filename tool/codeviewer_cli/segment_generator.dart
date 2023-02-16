@@ -20,7 +20,7 @@ const _globalPrologue =
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/codeviewer/code_style.dart';
+import 'package:ednet_figma_exporter/codeviewer/code_style.dart';
 
 class CodeSegments {
 ''';

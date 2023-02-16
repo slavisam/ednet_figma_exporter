@@ -7,8 +7,8 @@ import 'dart:convert' show JsonEncoder;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_driver/driver_extension.dart';
-import 'package:gallery/data/demos.dart';
-import 'package:gallery/main.dart' show GalleryApp;
+import 'package:ednet_figma_exporter/data/demos.dart';
+import 'package:ednet_figma_exporter/main.dart' show GalleryApp;
 
 // See transitions_perf_test.dart for how to run this test.
 

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:gallery/data/demos.dart';
-import 'package:gallery/main.dart';
-import 'package:gallery/pages/demo.dart';
-import 'package:gallery/pages/home.dart';
-import 'package:gallery/studies/reply/app.dart';
-import 'package:gallery/studies/reply/search_page.dart';
+import 'package:ednet_figma_exporter/data/demos.dart';
+import 'package:ednet_figma_exporter/main.dart';
+import 'package:ednet_figma_exporter/pages/demo.dart';
+import 'package:ednet_figma_exporter/pages/home.dart';
+import 'package:ednet_figma_exporter/studies/reply/app.dart';
+import 'package:ednet_figma_exporter/studies/reply/search_page.dart';
 
 void main() {
   testWidgets(

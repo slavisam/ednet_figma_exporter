@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-import 'package:gallery/themes/material_demo_theme_data.dart';
+import 'package:ednet_figma_exporter/themes/material_demo_theme_data.dart';
 import 'package:test/test.dart';
 
 void main() {
